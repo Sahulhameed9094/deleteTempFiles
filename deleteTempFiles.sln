@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deleteTempFiles", "deleteTempFiles.csproj", "{F55FBBD8-F005-40E1-8F99-2EEF8447F0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55FBBD8-F005-40E1-8F99-2EEF8447F0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55FBBD8-F005-40E1-8F99-2EEF8447F0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55FBBD8-F005-40E1-8F99-2EEF8447F0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55FBBD8-F005-40E1-8F99-2EEF8447F0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18C7D90-71BB-473A-83C7-57C2F54AEE44}
+	EndGlobalSection
+EndGlobal
